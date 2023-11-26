@@ -1,1 +1,4 @@
 # E-Yantra-2023
+E-yantra, an international competition by IIT Bombay, draws global talent in robotics and automation. This annual event, renowned for its technical challenges, is a hub for innovation, where students push the boundaries of robotics on an international stage. Teams collaboratively tackle real-world problems, contributing to the evolution of automation technology.
+
+This year's theme, "Holgyph," introduces an exciting twist. Teams integrate holography into their robotic creations, envisioning a future where holographic interfaces enhance robot capabilities. Holgyph challenges participants to redefine human-machine interactions, exploring the uncharted territories where holography and robotics converge. The competition promises a captivating journey into the future, where imagination and engineering excellence unite.
